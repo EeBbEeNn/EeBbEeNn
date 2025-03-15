@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>SIEMs Deployment (Integrations, Configurations, Log Analysis, Attack Simulation & Active Response)</b>
-  - [Wazuh SIEM Deployment & Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wazuh SIEM Deployment & Configuration](https://github.com/EeBbEeNn/Wazuh-SIEM-LAB)
 
 
 

@@ -9,8 +9,8 @@
 - <b>FIREWALLS Deployment (Intergrations,Configurations,Rules....)</b>
   - [PFsense Firewall] (in progress....)
 
-- <b>[Cyber Security & Ethical Hacking Projects](CFSS Cyber security & Ethical Hacking Internship Projects</b>
-   - [Ebenezer CFSS Cyber Security Projects](https://docs.google.com/document/d/1xZXMpvTM2Njc-i0n90gyS0P0-eO0On5w9BvkFAiA5xI/edit?usp=drive_link) 
+- <b>[Cyber Security & Ethical Hacking Projects](CFSS Internship Projects)</b>
+   - [Ebenezer CFSS Cyber Security & Ethical Hacking Projects](https://docs.google.com/document/d/1xZXMpvTM2Njc-i0n90gyS0P0-eO0On5w9BvkFAiA5xI/edit?usp=drive_link) 
 
 <h2> Currently Learning: </h2>
 <h2> Artificial Intelligence in Cyber Security ||📺YouTube Videos Used||AI Projects||:</h2>

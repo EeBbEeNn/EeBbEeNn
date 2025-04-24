@@ -15,6 +15,7 @@
 <h2> Currently Learning: </h2>
 <h2> Artificial Intelligence in Cyber Security ||📺YouTube Videos Used||AI Projects||:</h2>
 
+- [IBM Technology YouTube Channel] [www.youtube.com/@IBMTechnology]
 - [📺Artificial Intelligence Fundamentals Playlist] [https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF]
 - [Build Your Own Chatbot -Level 1][https://www.ibm.com/training/badge/build-your-own-chatbot-level-1]
 - [AI Ethics & Governance][https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCiM]

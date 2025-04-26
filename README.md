@@ -4,9 +4,9 @@
 
 - <b>SIEMs Deployment (Integrations, Configurations, Log Analysis, Attack Simulation & Active Response....)</b>
   - [Wazuh SIEM ](https://github.com/EeBbEeNn/Wazuh-SIEM-LAB)
-  - [IBM Qradar SIEM] (in progress....)
+  - [IBM Qradar SIEM](https://github.com/EeBbEeNn/IBM-Qradar-CE-/tree/main)
  
-- <b>FIREWALLS Deployment (Intergrations,Configurations,Rules....)</b>
+- <b>FIREWALLS Deployment (Intergrations,Configurations,Vlans,Whitelisting,Rules....)</b>
   - [PFsense Firewall] (in progress....)
 
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects]( Stegnography,Nmap,Metasploit,Password Cracking,Incident Response Plan... )</b>
@@ -21,7 +21,8 @@
 - [AI Ethics & Governance][https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCiM]
 
 <h2> Artificial Intelligence (AI/ML) Projects/Practicals </h2>
-- [Build A Chatbot usin IBM WatsonX Assistant] (in progress....)
+- [Build A Chatbot usin IBM WatsonX Assistant] Digital Badge: [https://www.credly.com/badges/19f7d812-29e5-4647-a2cb-08fd4140cb72/public_url]
+- [Build A Chatbot usin IBM WatsonX Assistant] []
 
 
 <br></br>

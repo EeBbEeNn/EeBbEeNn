@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aibor Ebenezer <br/> <a href="https://www.linkedin.com/in/ebenezer-aibor-454257225">Aspiring Cybersecurity Operation Center Analyst(SOC)</a>
+<h1>Hi, I'm Aibor Ebenezer <br/> <a href="https://www.linkedin.com/in/ebenezer-aibor-454257225">Cybersecurity Operation Center Analyst(SOC)</a>
 
 <h2>👨‍💻 [My Current Home Lab] (https://i.imgur.com/qhf77X1.png)</h2>
 

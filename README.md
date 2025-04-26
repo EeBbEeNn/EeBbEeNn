@@ -27,10 +27,10 @@
 - [IBM Technology YouTube Channel] [www.youtube.com/@IBMTechnology]
 - [📺Artificial Intelligence Fundamentals Playlist] [https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF]
 - [Build Your Own Chatbot -Level 1][https://www.ibm.com/training/badge/build-your-own-chatbot-level-1]
-- [AI Ethics & Governance][https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCiM]
+- [AI Ethics & Governance][https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCi
 
 
-- <h2>AI/ML Learnt:</h2>
+<h2>AI/ML Learnt:</h2>
 
   - (AI Fundamentals & Types)
   - (ML Fundamentals & Types)
@@ -46,10 +46,11 @@
 [Build A Chatbot using IBM WatsonX Assistant] Digital Badge:[https://www.credly.com/badges/19f7d812-29e5-4647-a2cb-08fd4140cb72/public_url]
 
 
+
 [Build A Chatbot using IBM WatsonX Assistant] [https://github.com/EeBbEeNn/IBM-Build-Your-Own-ChatBot-Course-Lab]
 
 
-- <b>Python for Aritificial Intelligence & Machine Learning (Building AI models, LLMs, Foundational Models, Agentic AI....)</b>
+<b>Python for Artificial Intelligence & Machine Learning (Building AI models, LLMs, Foundational Models, Agentic AI....)</b>
   - [Python for AI/ML] (in progress....)
     
 <br></br>

@@ -47,7 +47,7 @@
 
 
 
-[Build A Chatbot using IBM WatsonX Assistant] [https://github.com/EeBbEeNn/IBM-Build-Your-Own-ChatBot-Course-Lab]
+[Build A Chatbot using IBM WatsonX Assistant](https://github.com/EeBbEeNn/IBM-Build-Your-Own-ChatBot-Course-Lab)
 
 
 <b>Python for Artificial Intelligence & Machine Learning (Building AI models, LLMs, Foundational Models, Agentic AI....)</b>

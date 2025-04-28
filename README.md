@@ -43,11 +43,10 @@
   - (Orchestrator Agent)
 
 <h2> Artificial Intelligence (AI/ML) Projects/Practicals </h2>
-[Build A Chatbot using IBM WatsonX Assistant] Digital Badge:[https://www.credly.com/badges/19f7d812-29e5-4647-a2cb-08fd4140cb72/public_url]
 
+  -[Build A Chatbot using IBM WatsonX Assistant] Digital Badge: (https://www.credly.com/badges/19f7d812-29e5-4647-a2cb-08fd4140cb72/public_url)
 
-
-[Build A Chatbot using IBM WatsonX Assistant](https://github.com/EeBbEeNn/IBM-Build-Your-Own-ChatBot-Course-Lab)
+  - [Build A Chatbot using IBM WatsonX Assistant](https://github.com/EeBbEeNn/IBM-Build-Your-Own-ChatBot-Course-Lab)
 
 
 <b>Python for Artificial Intelligence & Machine Learning (Building AI models, LLMs, Foundational Models, Agentic AI....)</b>

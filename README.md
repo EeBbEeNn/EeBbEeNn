@@ -7,6 +7,7 @@
 - <b>SIEMs Deployment (Integrations, Configurations, Log Analysis, Attack Simulation & Active Response....)</b>
   - [Wazuh SIEM](https://github.com/EeBbEeNn/Wazuh-SIEM-LAB) ✔
   - [IBM Qradar SIEM](https://github.com/EeBbEeNn/IBM-Qradar-CE-/tree/main) ✔
+  - [Rapid7 InsightIDR SIEM] (in progress....)
   - [Microsoft Sentinel] (in progress....)
  
 - <b>FIREWALLS Deployment (Intergrations,Configurations,Vlans,Whitelisting,Rules....)</b>
@@ -32,15 +33,13 @@
 
 <h2>AI/ML Learnt:</h2>
 
-  - (AI Fundamentals & Types)
-  - (ML Fundamentals & Types)
-  - (AI Ethics & Governance)
-  - (ChatBots & AI Assistants)
-  - (LLMs & Foundational Models)
-  - (AI Agents, Fine Tuning, Prompt Engineering)
-  - (Retrieval Augmented Intelligence[RAG], Cache Augmented Intelligence[CAG], Agentic RAG)
-  - (Corpus Poisoning, Prompt Injection, OWASP Top 10 for LLMs,)
-  - (Orchestrator Agent)
+  - (AI Fundamentals & Types || ML Fundamentals & Types)
+  - (AI Ethics & Governance || ChatBots & AI Assistants)
+  - (LLMs & Foundational Models || AI Agents, Fine Tuning, Prompt Engineering)
+  - (Retrieval Augmented Generation [RAG], Cache Augmented Generation [CAG], Agentic RAG, Orchestrator Agent))
+  - (Corpus Poisoning, Prompt Injection, OWASP Top 10 for LLMs, Jailbreaking LLMs)
+  - (Zero shot Prompting || Few Shot Prompting || Chain Of Thought reasoning/ Prompting)
+  - (Open Source LLMs || Propietary LLMs)
 
 <h2> Artificial Intelligence (AI/ML) Projects/Practicals </h2>
 

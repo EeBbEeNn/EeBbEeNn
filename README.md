@@ -50,6 +50,17 @@
 
 <b>Python for Artificial Intelligence & Machine Learning (Building AI models, LLMs, Foundational Models, Agentic AI....)</b>
   - [Python for AI/M  using Cisco Netacad Python Essential 1 course](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) (STARTED✔)
+
+
+
+<h2> AWS Cloud Practitioner / Security </h2>
+  <p> Fundamentals of AWS Cloud, Services, & Understanding the AWS Management Console </p>
+  
+  - [AWS Cloud Security Fundamentals Course] (https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition)
+  - [AWS Cloud Practitioner Essentials Course] (https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
+  - AWS Cloud Practioner Projects [In Progress...]
+    
+  - AWS Cloud Security Projects (IAM,GuardDuty,CloudTrail, AWS Config,Amazon macie,Inspector....) [In Progress...]
     
 <br></br>
 

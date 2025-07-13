@@ -58,7 +58,7 @@
   
   - [AWS Cloud Security Fundamentals Course] (https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition)
   - [AWS Cloud Practitioner Essentials Course] (https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
-  - AWS Cloud Practioner Projects [In Progress...]
+  - [AWS Cloud Practioner Projects](https://github.com/EeBbEeNn/AWS-ELB-Auto-Scaling-Project)
     
   - AWS Cloud Security Projects (IAM,GuardDuty,CloudTrail, AWS Config,Amazon macie,Inspector....) [In Progress...]
     

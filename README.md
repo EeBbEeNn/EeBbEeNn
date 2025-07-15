@@ -23,7 +23,7 @@
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects]( Stegnography,Nmap,Metasploit,Password Cracking,Incident Response Plan... )</b>
    - [Ebenezer CFSS Cyber Security & Ethical Hacking Projects](https://docs.google.com/document/d/1xZXMpvTM2Njc-i0n90gyS0P0-eO0On5w9BvkFAiA5xI/edit?usp=drive_link) ✔
 
-<h2> Artificial Intelligence ||📺YouTube Videos Used|| AI/ML Learnt || AI Projects||:</h2>
+<h2> Artificial Intelligence ||📺YouTube Videos/Courses Used|| AI/ML Learnt || AI Projects||</h2>
 
 - [IBM Technology YouTube Channel](www.youtube.com/@IBMTechnology) ✔
 - [📺Artificial Intelligence Fundamentals Playlist](https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)

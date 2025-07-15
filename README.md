@@ -23,16 +23,15 @@
 - <b>[ CFSS Cyber Security & Ethical Hacking Projects]( Stegnography,Nmap,Metasploit,Password Cracking,Incident Response Plan... )</b>
    - [Ebenezer CFSS Cyber Security & Ethical Hacking Projects](https://docs.google.com/document/d/1xZXMpvTM2Njc-i0n90gyS0P0-eO0On5w9BvkFAiA5xI/edit?usp=drive_link) ✔
 
-<h2> Artificial Intelligence in Cyber Security ||📺YouTube Videos Used||AI Projects||:</h2>
+<h2> Artificial Intelligence ||📺YouTube Videos Used|| AI/ML Learnt || AI Projects||:</h2>
 
-- [IBM Technology YouTube Channel] [www.youtube.com/@IBMTechnology] ✔
-- [📺Artificial Intelligence Fundamentals Playlist] [https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF]
-- [Build Your Own Chatbot -Level 1][https://www.ibm.com/training/badge/build-your-own-chatbot-level-1] ✔
-- [AI Ethics & Governance][https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCi] ✔
+- [IBM Technology YouTube Channel](www.youtube.com/@IBMTechnology) ✔
+- [📺Artificial Intelligence Fundamentals Playlist](https://www.youtube.com/playlist?list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF)
+- [Build Your Own Chatbot -Level 1](https://www.ibm.com/training/badge/build-your-own-chatbot-level-1) ✔
+- [AI Ethics & Governance](https://www.youtube.com/playlist?list=PLOspHqNVtKABEKVgWGrf6_x6OQYnYnCi) ✔
 
 
-<h2>AI/ML Learnt:</h2>
-
+- <b>AI/ML Learnt:</b>
   - (AI Fundamentals & Types || ML Fundamentals & Types)
   - (AI Ethics & Governance || ChatBots & AI Assistants)
   - (LLMs & Foundational Models || AI Agents, Fine Tuning, Prompt Engineering)
@@ -41,26 +40,28 @@
   - (Zero shot Prompting || Few Shot Prompting || Chain Of Thought reasoning/ Prompting)
   - (Open Source LLMs || Propietary LLMs)
 
-<h2> Artificial Intelligence (AI/ML) Projects/Practicals </h2>
+- <b>Artificial Intelligence (AI/ML) Projects/Practicals</b>
 
-  -[Build A Chatbot using IBM WatsonX Assistant] Digital Badge: (https://www.credly.com/badges/19f7d812-29e5-4647-a2cb-08fd4140cb72/public_url)
-
+  - [Build A Chatbot using IBM WatsonX Assistant Digital Badge](https://www.credly.com/badges/19f7d812-29e5-4647-a2cb-08fd4140cb72/public_url)
   - [Build A Chatbot using IBM WatsonX Assistant](https://github.com/EeBbEeNn/IBM-Build-Your-Own-ChatBot-Course-Lab) ✔
-
-
-<b>Python for Artificial Intelligence & Machine Learning (Building AI models, LLMs, Foundational Models, Agentic AI....)</b>
-  - [Python for AI/M  using Cisco Netacad Python Essential 1 course](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) (STARTED✔)
 
 
 
 <h2> AWS Cloud Practitioner / Security </h2>
-  <p> Fundamentals of AWS Cloud, Services, & Understanding the AWS Management Console </p>
-  
-  - [AWS Cloud Security Fundamentals Course] (https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition)
-  - [AWS Cloud Practitioner Essentials Course] (https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
-  - [AWS Cloud Practioner Projects](https://github.com/EeBbEeNn/AWS-ELB-Auto-Scaling-Project)
+
+- <b>Fundamentals of AWS Cloud, AWS Services, & Understanding the AWS Management Console</b>
+  - [AWS Cloud Security Fundamentals Course](https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition)
+  - [AWS Cloud Practitioner Essentials Course](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
+
     
+
+- <b>AWS CLOUD PRACTITIONER HANDS-ON LABS/PROJECTS</b>
+  - [AWS Elastic Load Balancer and Auto-Scaling with EC2 Project](https://github.com/EeBbEeNn/AWS-ELB-Auto-Scaling-Project)
+
+
+- <b>AWS CLOUD SECURITY HANDS-ON LABS/PROJECTS</b>
   - AWS Cloud Security Projects (IAM,GuardDuty,CloudTrail, AWS Config,Amazon macie,Inspector....) [In Progress...]
+    
     
 <br></br>
 
